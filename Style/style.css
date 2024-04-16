@@ -1,0 +1,225 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&family=Rubik+Doodle+Shadow&display=swap');
+
+
+
+/* Add other animations as needed */
+
+body {
+    background-image: url('../Images/yellow.png');/* https://wallpapercave.com/w/wp5284603*/
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    padding:80px;
+
+}
+.prompt-box{
+    background-color: #FDEB9C;
+    border-radius: 20px;
+    position: relative;
+    margin: auto;
+    height: 550px;
+    width: 1200px;
+    display: flex;
+    justify-content: center;
+    
+}
+.text,.answertext{
+    letter-spacing: 2px;
+    position: absolute;
+    width: 100%;
+    top: 30px;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+.answertext span{
+    animation: bounce 0.3s ease-in-out 2 alternate;
+    position: relative;
+    top: 20px;
+}
+.text span{
+    animation: bounce 0.3s ease-in-out 2 alternate;
+    position: relative;
+    top: 20px;
+}
+.question,.answer-heading{
+    font-family: 'Rubik Doodle Shadow', system-ui;
+    text-align: center;
+    padding-top: 150px;
+    font-size: 40px;
+    width: 750px;
+}
+.answer-heading{
+    font-size: 60px;
+}
+.bubble,.exclaimation{
+    position: absolute;
+    right: -90px;
+    top: -90px;
+    width: 350px;
+}
+.arrow {
+    position: absolute;
+    bottom: -50px;
+    left: -100px;
+    height: auto;
+}
+
+.answer-content{
+    display: none; 
+}
+.question-content{
+    display: block;
+}
+.response-message{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+button{
+    background-color: black;
+    color: white;
+    font-family: 'Rubik Doodle Shadow', system-ui;
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 10px;
+    width: 150px;
+    border: none;
+}
+button:hover{
+    color: #F7D336;
+}
+.buttons{
+    padding: 90px;
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    margin-top: 250px;
+}
+.buttonx{
+    padding: 90px;
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    margin-top: 50px;
+}
+.reasoning{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    width: 750px;
+    text-align: center;
+    margin-top: 230px;
+}
+.regenerate{
+    width: 200px;
+}
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    /* Styles for tablets IPad Pro*/
+    .body{
+        background-image: url('../Images/yellowVertical.png');/* https://wallpapercave.com/w/wp5284603 */
+        background-size: cover; 
+        background-repeat: no-repeat; 
+        padding:80px;
+    
+    }
+    .prompt-box{
+        height: 1200px;
+        width: 800px; 
+       
+    }
+    .question,.answer-heading{
+       
+        width: 500px;
+        text-align: center;
+    }
+    .question{
+        font-size: 60px;
+    }
+    .answer-heading{
+        font-size: 80px;
+    }
+    .reasoning{
+        font-size: 40px;
+    }
+    .bubble,.exclaimation{
+        width: 300px;
+    }
+    .arrow {
+        width: 350px;
+    }
+    button{
+        
+        font-size: 40px;
+        border-radius: 10px;
+        padding: 20px;
+        width: 200px;
+    }
+    .regenerate{
+        width: 300px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    /* Styles for phones in portrait mode */
+    .body{
+        background-image: url('../Images/yellowVertical.png');/* https://wallpapercave.com/w/wp5284603*/
+        background-size: cover; 
+        background-repeat: no-repeat; 
+    }
+    .prompt-box{
+        height: 600px;
+        width: 300px; 
+        
+    }
+    .question,.answer-heading{
+        font-size: 20px;
+        width: 300px;
+    }
+    .reasoning{
+        font-size: 15px;
+        width: 200px;
+    }
+    .answer-heading{
+        font-size: 40px;
+    }
+    .bubble,.exclaimation{
+        width: 200px;
+        right: -60px;
+        top: -60px;
+    }
+    .arrow {
+        width: 200px;
+        bottom: -10px;
+        left: -40px;
+    }
+    button{
+        
+        font-size: 15px;
+        width: 100px;
+    }
+    .regenerate{
+        width: 100px;
+    }
+    
+}
+@keyframes bounce{
+    100%{
+        top:-20px;
+        text-shadow: 
+        0 1px 0 #e0b700,
+        0 2px 0 #e0b700,
+        0 3px 0 #e0b700,
+        0 4px 0 #e0b700,
+        0 5px 0 #e0b700,
+        0 6px 0 #e0b700,
+        0 7px 0 #e0b700,
+        0 8px 0 #e0b700,
+        0 9px 0 #e0b700,
+        0 50px 25px rgba(0,0,0,0.4);
+    }
+}
+
+
+  
+  

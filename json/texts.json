@@ -1,0 +1,404 @@
+
+{
+"prompts": [
+{
+"question": "Have you ever pushed someone off the stairs?",
+"yesResponse": "You helped them get to their destination faster. All it takes is a push sometimes.",
+"noResponse": "It takes a lot to not push some people off the stairs sometimes. Good work!"
+},
+{
+"question": "Have you ever robbed a bank?",
+"yesResponse": "Not a lot of people are as bold as you to follow their true passion",
+"noResponse": "You didn't let poverty lose your morals. Hats off to you!"
+},
+{
+    "question": "Did you take a shower today?",
+    "yesResponse": "Over 40% percent of the world does not shower everyday (some shower once in two weeks) it takes a lot of courage to face the brutal cold in the morning",
+    "noResponse": "It takes a lot to stand out from the crowd. You're contributing to the earth by saving water. Keep up the good work."
+},
+{
+    "question": "Did you text your ex today?",
+    "yesResponse": "Not everyone can try to be friends with their ex, Kudos to you",
+    "noResponse": "Don't let your intrusive thoughts win. Stay toxic!"
+},
+{
+    "question": "Have you ever eaten food that fell on the floor?",
+    "yesResponse": "You've embraced the 5-second rule. Waste not, want not!",
+    "noResponse": "You've avoided potential food poisoning. Smart move!"
+},
+{
+    "question": "Have you ever lied about being sick to skip work or school?",
+    "yesResponse": "Sometimes, a mental health day is just what the doctor ordered.",
+    "noResponse": "You've upheld your commitment. Responsibility comes first!"
+},
+{
+    "question": "Have you ever forgotten someone's birthday?",
+    "yesResponse": "You're living in the moment, not bound by social obligations!",
+    "noResponse": "You've remembered to celebrate your loved ones. That's thoughtful of you!"
+},
+{
+    "question": "Did you procrastinate today?",
+    "yesResponse": "You've mastered the art of procrastination. Productivity can wait!",
+    "noResponse": "You've conquered procrastination. Stay focused!"
+},
+{
+    "question": "Have you ever pretended to laugh at a joke you didn't find funny?",
+    "yesResponse": "You've mastered the art of social interaction. Sometimes, laughter is the best medicine!",
+    "noResponse": "You've stayed true to yourself. Authenticity is key!"
+},
+{
+    "question": "Have you ever forgotten to return borrowed items?",
+    "yesResponse": "You've contributed to the economy by supporting local businesses through your forgetfulness!",
+    "noResponse": "You've upheld your commitment to returning borrowed items. Responsible citizen!"
+},
+{
+    "question": "Have you ever taken food from someone else's plate without asking?",
+    "yesResponse": "You've embraced the spirit of sharing. Food tastes better when it's stolen!",
+    "noResponse": "You've respected personal boundaries. Good manners!"
+},
+{
+    "question": "Did you ever pretend to be someone else on social media?",
+    "yesResponse": "You've explored your creative side. Life's a stage, and social media is your platform!",
+    "noResponse": "You've stayed authentic online. Keep being yourself!"
+},
+{
+    "question": "Did you fart in a room full of people today?",
+    "yesResponse": "You've contributed to the room's ambiance with your unique scent. Embrace your natural fragrance!",
+    "noResponse": "You've spared the room from unexpected odors. Considerate of others' olfactory senses!"
+},
+    {
+        "question": "Did you eat the last slice of pizza without offering it to anyone else?",
+        "yesResponse": "You've savored the final slice for yourself. Self-indulgence at its finest!",
+        "noResponse": "You've shown consideration for others' pizza cravings. Sharing is caring!"
+    },
+    {
+        "question": "Did you secretly take a nap at work or school today?",
+        "yesResponse": "You've seized a moment of tranquility amidst the chaos. Power naps are productivity hacks!",
+        "noResponse": "You've remained alert and focused throughout the day. No time for snoozing!"
+    },
+    {
+        "question": "Did you accidentally send a text to the wrong person today?",
+        "yesResponse": "You've provided unexpected entertainment to the unintended recipient. A hilarious mishap!",
+        "noResponse": "You've ensured your messages reach the right recipients. Clear communication!"
+    },
+    {
+        "question": "Did you binge-watch a TV series instead of being productive today?",
+        "yesResponse": "You've immersed yourself in the captivating world of television. Escapism at its finest!",
+        "noResponse": "You've prioritized productivity over entertainment. Focus and determination!"
+    },
+    {
+        "question": "Did you forget to mute yourself during a virtual meeting or class today?",
+        "yesResponse": "You've unintentionally shared your background noises with everyone. The joy of virtual communication!",
+        "noResponse": "You've maintained professionalism by muting yourself when needed. Tech-savvy and considerate!"
+    },
+    {
+        "question": "Did you accidentally call someone by the wrong name today?",
+        "yesResponse": "You've given someone a new nickname by mistake. A spontaneous act of creativity!",
+        "noResponse": "You've addressed everyone correctly, showing respect for their identities. Attention to detail!"
+    },
+    {
+        "question": "Did you spill a drink on yourself or someone else today?",
+        "yesResponse": "You've added an unexpected twist to the day with a spontaneous liquid refreshment. Stay hydrated!",
+        "noResponse": "You've kept your beverages in their containers, preventing any spills. Graceful and careful!"
+    },
+    {
+        "question": "Did you accidentally lock yourself out of your house or car today?",
+        "yesResponse": "You've embarked on an impromptu adventure outdoors. Embrace the unexpected journey!",
+        "noResponse": "You've kept your keys safe and accessible, ensuring smooth access to your home or vehicle. Preparedness pays off!"
+    },
+    {
+        "question": "Did you forget someone's birthday today?",
+        "yesResponse": "You've given them an excuse to extend their birthday celebrations. Every day is a reason to celebrate!",
+        "noResponse": "You've remembered to mark the special occasion, showing thoughtfulness and consideration. Warm wishes!"
+    },
+    {
+        "question": "Did you accidentally send an email with a typo today?",
+        "yesResponse": "You've added a touch of humor to the recipient's inbox with a delightful typo. A happy little mistake!",
+        "noResponse": "You've double-checked your emails for accuracy, ensuring clear and professional communication. Attention to detail!"
+    },
+    {
+        "question": "Did you wear mismatched socks today?",
+        "yesResponse": "You've embraced individuality and expressed your unique style through your mismatched socks. Fashion-forward and daring!",
+        "noResponse": "You've coordinated your socks flawlessly, showcasing your impeccable sense of style. Trendy and put-together!"
+    },
+    {
+        "question": "Did you accidentally use the wrong emoji in a text message today?",
+        "yesResponse": "You've added an unexpected twist to your message with an unintentionally amusing emoji. Embrace the emoji mishap!",
+        "noResponse": "You've carefully selected the perfect emoji to convey your message, ensuring clear and effective communication. Emotive and expressive!"
+    },
+    {
+        "question": "Did you forget to charge your phone overnight today?",
+        "yesResponse": "You've embraced the thrill of living on the edge with a low battery. Adventure awaits!",
+        "noResponse": "You've maintained a fully charged phone, ready to tackle the day's challenges with full power. Prepared and connected!"
+    },
+    {
+        "question": "Did you accidentally like an old post while stalking someone's social media today?",
+        "yesResponse": "You've unintentionally shown your appreciation for timeless content. A blast from the past!",
+        "noResponse": "You've navigated social media with precision, avoiding accidental likes and maintaining your stealthy online presence. Smooth scrolling!"
+    },
+    {
+        "question": "Did you trip over nothing today?",
+        "yesResponse": "You've added an unexpected element of comedy to your day with a spontaneous trip. Laughter is the best medicine!",
+        "noResponse": "You've maintained your balance and grace, navigating the world with steady footing. Poised and elegant!"
+    },
+    {
+        "question": "Did you accidentally send a text meant for someone else to the wrong person today?",
+        "yesResponse": "You've shared a glimpse of your inner thoughts and secrets with an unintended recipient. A serendipitous revelation!",
+        "noResponse": "You've directed your messages to the correct recipients, ensuring confidential communication and privacy. Secure and discreet!"
+
+
+    },
+    {
+        "question": "Did you forget to use deodorant today?",
+        "yesResponse": "You've embraced your natural scent and contributed to the world of pheromones. Alluring and authentic!",
+        "noResponse": "You've stayed fresh and fragrant throughout the day, maintaining impeccable personal hygiene. Clean and confident!"
+    },
+    {
+        "question": "Did you accidentally laugh at an inappropriate moment today?",
+        "yesResponse": "You've added a touch of levity to a serious situation with your infectious laughter. Laughter is contagious!",
+        "noResponse": "You've maintained composure and seriousness when needed, demonstrating maturity and respect. Professional and composed!"
+    },
+    {
+        "question": "Did you accidentally send a voice message instead of a text today?",
+        "yesResponse": "You've provided an unexpected auditory experience to the recipient. Vocal messages add a personal touch!",
+        "noResponse": "You've communicated effectively through text, ensuring clarity and precision in your messages. Written communication at its finest!"
+    },
+    {
+        "question": "Did you forget someone's name today?",
+        "yesResponse": "You've added an element of mystery to your interactions by temporarily forgetting a name. A mysterious encounter!",
+        "noResponse": "You've remembered everyone's names with ease, showing attentiveness and consideration in your interactions. Sharp memory!"
+    },
+    {
+        "question": "Did you accidentally use the wrong filter in a selfie today?",
+        "yesResponse": "You've enhanced your selfie with an unexpected filter, adding a touch of whimsy to your photo. A playful twist!",
+        "noResponse": "You've selected the perfect filter to highlight your best features in your selfie, ensuring flawless photography. Picture-perfect!"
+    },
+    {
+        "question": "Did you accidentally send a text meant for your crush to the wrong person today?",
+        "yesResponse": "You've inadvertently revealed your feelings in the most unexpected way. A bold declaration!",
+        "noResponse": "You've maintained discretion and kept your crush-related messages private. Guarding your secrets!"
+    },
+    {
+        "question": "Did you accidentally wear your clothes inside out or backward today?",
+        "yesResponse": "You've embraced fashion-forward thinking with your unconventional attire. Setting trends!",
+        "noResponse": "You've dressed impeccably, ensuring your clothes are worn the right way round. Fashionably correct!"
+    },
+    {
+        "question": "Did you accidentally call someone by their nickname instead of their real name today?",
+        "yesResponse": "You've infused your interactions with warmth and familiarity by using a nickname. A personalized touch!",
+        "noResponse": "You've addressed everyone by their proper names, showing respect and formality. Polite and courteous!"
+    },
+    {
+        "question": "Did you accidentally walk into the wrong restroom today?",
+        "yesResponse": "You've embarked on an unexpected journey into uncharted territory. A restroom adventure!",
+        "noResponse": "You've navigated the restroom corridors with precision, ensuring you enter the appropriate facilities. Restroom etiquette!"
+    },
+    {
+        "question": "Did you accidentally send a message in a group chat that was meant for an individual today?",
+        "yesResponse": "You've shared your thoughts and musings with a wider audience, fostering group camaraderie. Group bonding!",
+        "noResponse": "You've directed your messages to the intended recipients, maintaining clarity and relevance in group conversations. Targeted communication!"
+    },
+    {
+        "question": "Did you accidentally trip over your own shoelaces today?",
+        "yesResponse": "You've added a comedic twist to your day with a classic shoelace mishap. A stumble with style!",
+        "noResponse": "You've tied your shoelaces securely, preventing any accidental trips or falls. Steady footing!"
+    },
+    {
+        "question": "Did you accidentally set off a car alarm today?",
+        "yesResponse": "You've captured everyone's attention with a spontaneous burst of sound. An unexpected alarm!",
+        "noResponse": "You've ensured your vehicle remains silent and inconspicuous, avoiding any unnecessary disturbances. Peaceful parking!"
+    },
+    {
+        "question": "Did you accidentally send an embarrassing emoji in a professional email today?",
+        "yesResponse": "You've added a touch of humor and personality to your professional correspondence. A light-hearted exchange!",
+        "noResponse": "You've maintained professionalism and decorum in your email communications, ensuring your messages convey the right tone. Business as usual!"
+    },
+    {
+        "question": "Did you accidentally join the wrong video call meeting today?",
+        "yesResponse": "You've made an unexpected cameo appearance in someone else's virtual gathering. A surprise visit!",
+        "noResponse": "You've entered the correct virtual meeting room, ensuring your presence is felt where it's needed. Virtual professionalism!"
+    },
+    {
+        "question": "Did you accidentally play your music out loud in a quiet public space today?",
+        "yesResponse": "You've provided spontaneous entertainment to those around you with your impromptu music selection. A musical interlude!",
+        "noResponse": "You've enjoyed your music privately with headphones, respecting the peace and quiet of public spaces. Harmonious surroundings!"
+    },
+    {
+        "question": "Did you accidentally send a voice message with background noise today?",
+        "yesResponse": "You've shared a glimpse of your environment with the recipient, adding authenticity to your voice messages. Ambient soundscape!",
+        "noResponse": "You've recorded your voice messages in a quiet environment, ensuring clarity and focus in your audio communications. Noise-free messaging!"
+    },
+    {
+        "question": "Did you accidentally spill coffee on your shirt or blouse today?",
+        "yesResponse": "You've added a caffeinated twist to your wardrobe with a spontaneous coffee spill. A java-infused ensemble!",
+        "noResponse": "You've kept your coffee contained and your clothes pristine, avoiding any accidental spills or stains. Stain-free attire!"
+    },
+    {
+        "question": "Did you accidentally lock your keys inside your house or car today?",
+        "yesResponse": "You've embarked on an unplanned adventure in locksmithing, exploring creative solutions to regain access. DIY locksmith!",
+        "noResponse": "You've kept your keys close and accessible, ensuring seamless entry and exit from your home or vehicle. Key management mastery!"
+    },
+    {
+        "question": "Did you accidentally send a text message in a foreign language today?",
+        "yesResponse": "You've added an international flair to your conversations with multilingual messaging. Linguistic diversity!",
+        "noResponse": "You've communicated clearly and effectively in your native language, ensuring your messages are understood by all recipients. Language proficiency!"
+    },
+    {
+        "question": "Did you accidentally forget someone's birthday or anniversary today?",
+        "yesResponse": "You've provided a unique opportunity for belated celebrations, extending the joyous occasion beyond its initial date. Fashionably late!",
+        "noResponse": "You've remembered important dates and occasions, ensuring your friends and loved ones feel appreciated and cherished. Thoughtful remembrance!"
+    },
+    {
+        "question": "Did you accidentally misspell a word in an important document today?",
+        "yesResponse": "You've introduced a creative interpretation to spelling, showcasing your unique linguistic style. A literary flourish!",
+        "noResponse": "You've maintained accuracy and precision in your written documents, ensuring clarity and professionalism in your written communications. Correct spelling!"
+    },
+    {
+        "question": "Did you accidentally drop your phone in a public place today?",
+        "yesResponse": "You've added an element of suspense and excitement to your day with a dramatic phone drop. A gravity-defying adventure!",
+        "noResponse": "You've kept your phone secure and in your possession, preventing any accidental drops or losses. Phone security!"
+    },
+    {
+        "question": "Did you accidentally laugh out loud while wearing headphones in a quiet place today?",
+        "yesResponse": "You've added a burst of laughter to an otherwise silent environment, spreading joy and amusement to those around you. Laughter contagion!",
+        "noResponse": "You've enjoyed your audio content discreetly with headphones, ensuring a peaceful and undisturbed listening experience. Noise-free entertainment!"
+    },
+    {
+        "question": "Did you accidentally wear mismatched socks or shoes today?",
+        "yesResponse": "You've embraced asymmetrical fashion with your mismatched footwear, setting trends with your bold choices. Eccentric elegance!",
+        "noResponse": "You've coordinated your socks and shoes flawlessly, ensuring a harmonious and balanced look from head to toe. Fashion coordination!"
+    },
+    {
+        "question": "Did you accidentally leave your umbrella at home on a rainy day today?",
+        "yesResponse": "You've embraced the elements with your spontaneous exposure to rain, experiencing the beauty of nature firsthand. Rain-soaked adventure!",
+        "noResponse": "You've prepared for inclement weather by bringing your umbrella, ensuring you stay dry and comfortable despite the rain. Weather readiness!"
+    }
+
+],
+"buttontexts":[
+    {
+        "text":"No Way"
+    },
+    {
+        "text":"Really?"
+    },
+    {
+        "text":"You're joking!"
+    },
+    {
+        "text":"BROO!!"
+    },
+    {
+        "text":"*side eye*"
+    },
+    {
+        "text":"WHATTT?!"
+    },
+    {
+        "text": "Seriously?"
+    },
+    {
+        "text": "Oh, come on!"
+    },
+    {
+        "text": "That's unbelievable!"
+    },
+    {
+        "text": "Are you kidding me?"
+    },
+    {
+        "text": "You've got to be kidding!"
+    },
+    {
+        "text": "Is this a prank?"
+    },
+    {
+        "text": "Impossible!"
+    },
+    {
+        "text": "You must be joking!"
+    },
+    {
+        "text": "No way!"
+    },
+    {
+        "text": "Get out of here!"
+    },
+    {
+        "text": "Oh, stop it!"
+    },
+    {
+        "text": "Seriously, though?"
+    },
+    {
+        "text": "That's hard to believe!"
+    },
+    {
+        "text": "No way, Jose!"
+    },
+    {
+        "text": "You're pulling my leg!"
+    },
+    {
+        "text": "You're joking, right?"
+    },
+    {
+        "text": "Not buying it!"
+    },
+    {
+        "text": "That's a good one!"
+    },
+    {
+        "text": "No chance!"
+    },
+    {
+        "text": "Are you for real?"
+    }
+],
+"compliments":[
+    {
+        "text":"Great Job!"
+    },
+    {
+        "text":"Awesome!"
+    },
+    {
+        "text":"Good work"
+    },
+    {
+        "text":"Excellent"
+    },
+    {
+        "text":"Congratulations!"
+    },{
+        "text": "Impressive!"
+    },
+    {
+        "text": "Well done!"
+    },
+    {
+        "text": "Fantastic!"
+    },
+    {
+        "text": "Brilliant!"
+    },
+    {
+        "text": "Outstanding!"
+    },
+    {
+        "text": "Terrific!"
+    },
+    {
+        "text": "Superb!"
+    },
+    {
+        "text": "Remarkable!"
+    },
+    {
+        "text": "Magnificent!"
+    },
+    {
+        "text": "Sensational!"
+    }
+]
+}
